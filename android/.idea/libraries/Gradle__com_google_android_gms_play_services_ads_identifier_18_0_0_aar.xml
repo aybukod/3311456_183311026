@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:18.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/11d0bb93441d0b7f5fc48e08b0d618c1/transformed/jetified-play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/e3e32bd2fa975e866a6962c933a82a16/transformed/jetified-play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/e3e32bd2fa975e866a6962c933a82a16/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/e3e32bd2fa975e866a6962c933a82a16/transformed/jetified-play-services-ads-identifier-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-identifier/18.0.0/71d2e97dbe034b36f64b28491590ec2b2ec324e3/play-services-ads-identifier-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

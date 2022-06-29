@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.grpc:grpc-android:1.44.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/c7faa436a3bdfa40233a09791918acc5/transformed/jetified-grpc-android-1.44.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/28b06550a5b8b92e850f69f0a0d1e691/transformed/jetified-grpc-android-1.44.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/28b06550a5b8b92e850f69f0a0d1e691/transformed/jetified-grpc-android-1.44.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/transforms-3/28b06550a5b8b92e850f69f0a0d1e691/transformed/jetified-grpc-android-1.44.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/modules-2/files-2.1/io.grpc/grpc-android/1.44.1/7f9eade0562d11317c80e0649168886fa912b02b/grpc-android-1.44.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/gradle-7.4.2/bin/caches/modules-2/files-2.1/io.grpc/grpc-android/1.44.1/dc38e0600c4f9a9fde21c2c54ae71dfb76888ddb/grpc-android-1.44.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
